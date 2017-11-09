@@ -42,6 +42,8 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         System.out.println("这是测试Test");
+        System.out.println("这是测试Test1");
+        System.out.println("这是测试Test1");
     }
 
     @Override
