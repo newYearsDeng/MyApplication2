@@ -41,9 +41,10 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        System.out.println("这是测试Test");
+        //这是测试分支
         System.out.println("这是测试Test2");
-        System.out.println("这是测试Test2");
+        
+        //这是测试分支
     }
 
     @Override
