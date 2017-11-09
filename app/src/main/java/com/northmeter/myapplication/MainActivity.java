@@ -44,9 +44,7 @@ public class MainActivity extends AppCompatActivity
 //        System.out.println("这是测试Test");dddd
 //        System.out.println("这是测试Test");ddd
 //        System.out.println("这是测试Test");dd
-//        System.out.println("这是测试Test");d
-//        System.out.println("这是测试Test");
-//        System.out.println("这是测试Test");
+
     }
 
     @Override
